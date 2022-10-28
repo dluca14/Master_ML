@@ -1,0 +1,17 @@
+brightness 100
+hue 23
+saturation 41
+toneMappingInverse
+toneMappingSigmoid 3
+gaussianBlur 9 9 5
+sharpen
+histogramEqualization
+rotate 45
+translate -20 10
+flip 1 1
+scale 0.15 0.15
+shear 0.3
+rotate 10 + flip 1 1 + scale 0.5 0
+brightness 100 + hue 100 + shear 0.1 + translate 30 0
+saturation 15 + sharpen + gaussianBlur 9 9 5 + flip 1 0 + scale 0.9 0.9
+toneMappingInverse + gaussianBlur 5 5 7 + rotate 15

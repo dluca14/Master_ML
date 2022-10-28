@@ -1,0 +1,11 @@
+brightness 25
+hue 70
+saturation 23
+toneMappingInverse
+toneMappingSigmoid 2
+gaussianBlur 13 13 8
+sharpen
+histogramEqualization
+brightness 100 + hue 100
+saturation 15 + sharpen + gaussianBlur 9 9 5
+toneMappingInverse + gaussianBlur 13 13 7
