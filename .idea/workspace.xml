@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47175b88-83bf-4111-9f8e-2fc17464f7a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FCV/Cap2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/Proiect1_FCV/aug_algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/FCV/Proiect1_FCV/aug_algorithms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/Proiect1_FCV/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/FCV/Proiect1_FCV/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/Proiect1_FCV/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FCV/Proiect1_FCV/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images/I1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images/I2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images/I3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images/I4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images/I5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_brightness_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_gaussianBlur_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_histogramEqualization_36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_hue_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_rotate_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_rotate_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_saturation_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_sharpen_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_toneMappingInverse_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_toneMappingSigmoid_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_translate_46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_translate_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_brightness_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_gaussianBlur_27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_histogramEqualization_37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_hue_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_rotate_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_rotate_42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_saturation_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_sharpen_32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_toneMappingInverse_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_toneMappingSigmoid_22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_translate_47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_brightness_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_gaussianBlur_28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_histogramEqualization_38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_hue_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_rotate_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_rotate_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_saturation_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_sharpen_33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_toneMappingInverse_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_toneMappingSigmoid_23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_brightness_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_gaussianBlur_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_histogramEqualization_39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_hue_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_rotate_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_rotate_44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_saturation_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_sharpen_34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_toneMappingInverse_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_toneMappingSigmoid_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_brightness_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_gaussianBlur_30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_histogramEqualization_40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_hue_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_rotate_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_rotate_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_saturation_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_sharpen_35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_toneMappingInverse_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_toneMappingSigmoid_25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/augmentations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/config_combined.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/config_geometric.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/config_pixel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/geometric.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCV/lab2/utils.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GezjeUq7LZ3D6joCVoIFHBwlKQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/david/workspace/LCTR&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FCV/lab2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FCV/lab2/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FCV/Proiect1_FCV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FCV/Proiect1_FCV/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FCV/lab2_" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FCV/lab2_/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47175b88-83bf-4111-9f8e-2fc17464f7a7" name="Changes" comment="" />
+      <created>1666763973346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666763973346</updated>
+      <workItem from="1666763974702" duration="30337000" />
+      <workItem from="1666964529035" duration="4140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FCV/Proiect1_FCV/aug_algorithms.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FCV/lab2/geometric.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FCV/lab2/augmentations.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FCV/Proiect1_FCV/main.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Master$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1666886511102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FCV/lab2" />
+    <SUITE FILE_PATH="coverage/Master$main.coverage" NAME="main Coverage Results" MODIFIED="1666887768456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FCV/lab2_" />
+    <SUITE FILE_PATH="coverage/Master$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1667041523415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FCV/Proiect1_FCV" />
+  </component>
+</project>

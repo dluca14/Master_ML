@@ -1,16 +1,12 @@
 import cv2
 import numpy as np
-from numpy import convolve
 from tqdm import tqdm
 
 
-def rotate(image, angle=None, show=False):
-    if angle is None:
-        angle = [-10]
-
+def rotate(image, param, show=False):
     (height, width, _) = image.shape
 
-    x_radius = angle[0] * (np.pi / 180)
+    x_radius = param * (np.pi / 180)
 
     rotated_image_x = np.zeros_like(image)
     centre_x = width / 2
@@ -37,11 +33,9 @@ def rotate(image, angle=None, show=False):
     return rotated_image_x
 
 
-def flip(image, p=None, show=False):
-    if p is None:
-        p = [1, 1]
+def flip(image, param, show=False):
     (height, width, _) = image.shape
-    x, y = p[0], p[1]
+    x, y = param[0], param[1]
 
     if x == 1:
         flipped_image_x = image[:, ::-1, :]
@@ -60,10 +54,8 @@ def flip(image, p=None, show=False):
     return flipped_image_y
 
 
-def translate(image, p=None, show=True):
-    if p is None:
-        p = [10, 20]
-    x, y = p[0], p[1]
+def translate(image, param, show=True):
+    x, y = param[0], param[1]
     translated_image_x = np.zeros_like(image)
     translated_image_y = np.zeros_like(image)
 
@@ -92,13 +84,13 @@ def translate(image, p=None, show=True):
 
 
 # pixel level
-def hue(image, p=10, show=False):
+def hue(image, param=10, show=False):
     hue_saturation_value = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
     hue, saturation, value = cv2.split(hue_saturation_value)
 
     # to switch off the remainder machanism we verify without going past 255
-    mask = (255 - hue) < p
-    hue = np.where(mask, 255, hue + p)
+    mask = (255 - hue) < param
+    hue = np.where(mask, 255, hue + param)
     new_image = cv2.merge((hue, saturation, value))
     new_image_bgr = cv2.cvtColor(new_image, cv2.COLOR_HSV2BGR)
 
@@ -110,13 +102,13 @@ def hue(image, p=10, show=False):
     return new_image_bgr
 
 
-def saturation(image, p=10, show=False):
+def saturation(image, param=10, show=False):
     hue_saturation_value = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
     hue, saturation, value = cv2.split(hue_saturation_value)
 
     # to switch off the remainder machanism we verify without going past 255
-    mask = (255 - saturation) < p
-    saturation = np.where(mask, 255, saturation + p)
+    mask = (255 - saturation) < param
+    saturation = np.where(mask, 255, saturation + param)
     new_image = cv2.merge((hue, saturation, value))
     new_image_bgr = cv2.cvtColor(new_image, cv2.COLOR_HSV2BGR)
 
@@ -128,18 +120,18 @@ def saturation(image, p=10, show=False):
     return new_image_bgr
 
 
-def brightness(image, p=10, show=False):
+def brightness(image, param=10, show=False):
     hue_saturation_value = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
     hue, saturation, value = cv2.split(hue_saturation_value)
 
     # to switch off the remainder machanism we verify without going past 255
-    if p >= 0:
-        mask = (255 - value) < p
-        value = np.where(mask, 255, value + p)
+    if param >= 0:
+        mask = (255 - value) < param
+        value = np.where(mask, 255, value + param)
     else:
-        mask = value < abs(p)
+        mask = value < abs(param)
         print(mask)
-        value = np.where(mask, 0, value + p)
+        value = np.where(mask, 0, value + param)
         print(value)
 
     new_image = cv2.merge((hue, saturation, value))

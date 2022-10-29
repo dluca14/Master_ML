@@ -1,17 +1,14 @@
 {
-  "geometric": {
-    "rotate": [-25],
-    "translate": [100, 200],
-    "flip": [0, 1]
-  },
-
-  "pixel": {
-    "hue": [70],
-    "translate": [100, 200],
-    "flip": [0, 1]
-  },
-
-  "chained": [{"shear": [0.3], "translate": [124, 245]},
-              {"flip": [1, 0], "scale": [2, 1.5]},
-              {"rotate": [10], "flip": [1, 1], "scale": [0.5, 0]}]
+  "algorithms": [
+    {"rotate": 10, "flip": [1, 1], "saturation": 77},
+    {"rotate": -25},
+    {"rotate": -25},
+    {"flip": [0, 1]},
+    {"translate": [100, 200]},
+    {"hue": 70},
+    {"saturation": 24},
+    {"brightness": 90},
+    {"hue": 50, "translate": [124, 245]},
+    {"flip": [1, 0], "brightness": 10}
+  ]
 }
