@@ -2,75 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47175b88-83bf-4111-9f8e-2fc17464f7a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/FCV/Cap2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/Proiect1_FCV/aug_algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/FCV/Proiect1_FCV/aug_algorithms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/Proiect1_FCV/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/FCV/Proiect1_FCV/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/Proiect1_FCV/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FCV/Proiect1_FCV/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images/I1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images/I2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images/I3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images/I4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images/I5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_brightness_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_gaussianBlur_26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_histogramEqualization_36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_hue_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_rotate_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_rotate_41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_saturation_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_sharpen_31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_toneMappingInverse_16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_toneMappingSigmoid_21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_translate_46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I1_translate_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_brightness_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_gaussianBlur_27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_histogramEqualization_37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_hue_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_rotate_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_rotate_42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_saturation_12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_sharpen_32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_toneMappingInverse_17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_toneMappingSigmoid_22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I2_translate_47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_brightness_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_gaussianBlur_28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_histogramEqualization_38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_hue_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_rotate_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_rotate_43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_saturation_13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_sharpen_33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_toneMappingInverse_18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I3_toneMappingSigmoid_23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_brightness_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_gaussianBlur_29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_histogramEqualization_39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_hue_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_rotate_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_rotate_44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_saturation_14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_sharpen_34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_toneMappingInverse_19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I4_toneMappingSigmoid_24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_brightness_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_gaussianBlur_30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_histogramEqualization_40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_hue_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_rotate_45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_rotate_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_saturation_15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_sharpen_35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_toneMappingInverse_20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/Images_aug/I5_toneMappingSigmoid_25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/augmentations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/config_combined.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/config_geometric.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/config_pixel.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/geometric.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/lab2/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DL/DL_Laboratory_3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/FML_Laboratory 01 - Luca David.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/FML_Laboratory 01/Data/ex1data1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FML/lab/FML_Laboratory 01/Data/ex1data1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/FML_Laboratory 01/Data/ex1data2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FML/lab/FML_Laboratory 01/Data/ex1data2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/FML_Laboratory 01/Figures/cost_function.png" beforeDir="false" afterPath="$PROJECT_DIR$/FML/lab/FML_Laboratory 01/Figures/cost_function.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/FML_Laboratory 01/Figures/dataset1.png" beforeDir="false" afterPath="$PROJECT_DIR$/FML/lab/FML_Laboratory 01/Figures/dataset1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/FML_Laboratory 01/Figures/learning_rate.png" beforeDir="false" afterPath="$PROJECT_DIR$/FML/lab/FML_Laboratory 01/Figures/learning_rate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/FML_Laboratory 01/Figures/regression_result.png" beforeDir="false" afterPath="$PROJECT_DIR$/FML/lab/FML_Laboratory 01/Figures/regression_result.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/FML_Laboratory 01/Laboratory 01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FML/lab/FML_Laboratory 01/Laboratory 01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/FML_Lecture01.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/FML/curs/FML_Lecture01.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/FML_Lecture02.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/FML/curs/FML_Lecture02.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/FML_Lecture03.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/FML/curs/FML_Lecture03.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/Laboratory 00/Laboratory 00.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/Laboratory 00/ReadMeFirst.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/Laboratory 00/data/bird_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/Laboratory 00/data/emailSample1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/Laboratory 00/data/ex0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/Laboratory 00/data/ex3data1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FML/Laboratory 00/environment.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +41,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2GezjeUq7LZ3D6joCVoIFHBwlKQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -102,11 +56,18 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/david/workspace/LCTR&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/david/workspace/EstimatedRatings&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FML/lab" />
+      <recent name="$PROJECT_DIR$/FML/curs" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Master" />
@@ -191,7 +152,12 @@
       <option name="presentableId" value="Default" />
       <updated>1666763973346</updated>
       <workItem from="1666763974702" duration="30337000" />
-      <workItem from="1666964529035" duration="4140000" />
+      <workItem from="1666964529035" duration="6653000" />
+      <workItem from="1667202574933" duration="1321000" />
+      <workItem from="1667229737817" duration="31812000" />
+      <workItem from="1668245128293" duration="6127000" />
+      <workItem from="1668251986369" duration="4522000" />
+      <workItem from="1668256799771" duration="8776000" />
     </task>
     <servers />
   </component>
@@ -202,11 +168,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FCV/Proiect1_FCV/aug_algorithms.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FCV/lab2/geometric.py</url>
           <line>36</line>
           <option name="timeStamp" value="16" />
@@ -216,17 +177,12 @@
           <line>48</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FCV/Proiect1_FCV/main.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Master$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1666886511102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FCV/lab2" />
     <SUITE FILE_PATH="coverage/Master$main.coverage" NAME="main Coverage Results" MODIFIED="1666887768456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FCV/lab2_" />
-    <SUITE FILE_PATH="coverage/Master$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1667041523415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FCV/Proiect1_FCV" />
+    <SUITE FILE_PATH="coverage/Master$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1667569497766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FCV/Proiect1_FCV" />
   </component>
 </project>
