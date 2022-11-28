@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="47175b88-83bf-4111-9f8e-2fc17464f7a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/Proiect2_FCV/frames_without_actions.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/FCV/Proiect2_FCV/frames_without_actions.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/Proiect2_FCV/input_video_with_red_cross.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/FCV/Proiect2_FCV/input_video_with_red_cross.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FCV/Proiect2_FCV/video_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/FCV/Proiect2_FCV/video_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FML/lab/Laboratory 03/Laboratory 03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FML/lab/Laboratory 03/Laboratory 03.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FML/lab/Laboratory 04/Laboratory 04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FML/lab/Laboratory 04/Laboratory 04.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -198,6 +194,7 @@
       <workItem from="1669019576619" duration="751000" />
       <workItem from="1669133719027" duration="5322000" />
       <workItem from="1669305669801" duration="11630000" />
+      <workItem from="1669644104359" duration="2172000" />
     </task>
     <servers />
   </component>
