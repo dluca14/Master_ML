@@ -8,7 +8,8 @@ def get_brightness(image_frame):
     return value
 
 
-cap = cv2.VideoCapture('input_video.mp4')
+# cap = cv2.VideoCapture('input_video.mp4')
+cap = cv2.VideoCapture(0)
 ret, frame = cap.read()
 size = (frame.shape[1], frame.shape[0])
 
